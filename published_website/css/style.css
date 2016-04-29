@@ -1,0 +1,50 @@
+# Empty CSS file for your own CSS
+
+.OfficeBanner {
+#    background-color: #CCFF99;
+    background: thistle;
+}
+.TopHeaderText {
+    font-style: normal;
+    font-weight: bolder;
+#    font-size: 3.6vw;
+    font-size: 40px;
+#    max-height: 50px;
+#    line-height: 60px;
+    color: darkslateblue;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-top: 5px;
+}
+.ProductTypeText {
+    font-style: italic;
+    font-weight: bolder;
+#    font-size: 1vw;
+    font-size: 22px;
+}
+.ProductSubTypeText {
+#    font-size: 1.2vw;
+    font-size: 19px;
+}
+.ProductText {
+#    font-size: 1vw;
+    font-size: 16px;
+}
+.TagText {
+#    font-size: 1vw;
+    font-size: 18px;
+}
+.CopyRightText {
+    text-align: center;
+#    font-size: 1vw;
+    font-size: 8px;
+}
+.CopyRightBanner {
+    min-height: 16px !important;
+}
+#ProfilePic {
+    width: auto;
+    height : auto;
+    max-height: 66%;
+    max-width: 66%;
+}
