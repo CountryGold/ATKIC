@@ -48,3 +48,13 @@
     max-height: 66%;
     max-width: 66%;
 }
+.OfficeBrief {
+    text-align: justify;
+    test-justify: auto;
+}
+#fp:first-letter {
+    font-size: 200%;
+    font-weight: bold;
+    float: left;
+    margin-right: 3px;
+}
