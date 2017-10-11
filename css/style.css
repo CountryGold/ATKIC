@@ -50,7 +50,7 @@
 }
 .OfficeBrief {
     text-align: justify;
-    test-justify: auto;
+    text-justify: auto;
 }
 #fp:first-letter {
     font-size: 190%;
