@@ -1,1 +1,17 @@
 https://www.atkic.com.tw/index.html
+https://www.atkic.com.tw/data/APP/AT1002%20Application%20Note.pdf
+https://www.atkic.com.tw/data/PDT/DCDC/Sync/AT8802Z-DSC005.pdf
+https://www.atkic.com.tw/data/PDT/DCDC/nonsync/AT2001-DSF002%20.pdf
+https://www.atkic.com.tw/data/PDT/DCDC/nonsync/AT2003S-DSF002.pdf
+https://www.atkic.com.tw/data/PDT/DCDC/nonsync/AT2003Z-DSF002.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/flyback/AT1687Z-DSF001.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/flyback/AT6000Z-DSF002%20.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/flyback/AT6001Z-DSF003.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/flyback/AT6002H-DSF001.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/PFC/AT6101L-DSC004.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/PFC/AT6101Z-DSC002.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/PFC/AT6102Z-DSC001.pdf
+https://www.atkic.com.tw/data/PDT/ACDC/PFC/AT6201L-DSC001.pdf
+https://www.atkic.com.tw/data/PDT/others/AT1001Z-DSF002.pdf
+https://www.atkic.com.tw/data/PDT/others/AT1002Z-DSF002.pdf
+https://www.atkic.com.tw/data/PDT/others/AT1051-DSF002.pdf
